@@ -8,6 +8,7 @@ Nodejs - MySQL (MariaDB) - Sequelize - Express
 
 =>  run 'node index.js' or run 'npm start'
 
+=>  start http://localhost:5000/
 
 # Methods	-  Urls	-		Actions
 
